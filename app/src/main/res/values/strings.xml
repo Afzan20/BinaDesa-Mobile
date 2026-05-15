@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BinaDesa</string>
+    <string name="register_text">
+    <![CDATA[
+    Belum punya akun? <font color="#C218B8"><b>Registrasi</b></font>
+    ]]>
+    </string>
 </resources>
